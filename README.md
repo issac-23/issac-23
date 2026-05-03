@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Issac
 
-<!--
-**issac-23/issac-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Economics @ Northeastern University '29.
 
-Here are some ideas to get you started:
+🌐 **[issac-ip.com](https://www.issac-ip.com/)** — this is where my projects, 
+writing, and what I'm working on can be found
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning by building in TypeScript/React, Python, 
+and Java. Coursework projects in Django and Java CLI 
+architecture aren't public, but the portfolio covers what 
+I'm working on outside of class.
+
+Outside of CS: Permira Summer Scholar, Fellow at 
+The Opportunity Network.
