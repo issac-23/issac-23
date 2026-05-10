@@ -2,13 +2,15 @@
 
 CS & Economics @ Northeastern University '29.
 
-🌐 **[issac-ip.com](https://www.issac-ip.com/)** — this is where my projects, 
-writing, and what I'm working on can be found
+🌐 **[issac-ip.com](https://www.issac-ip.com/)** — portfolio and writing
 
-Currently learning by building in TypeScript/React, Python, 
-and Java. Coursework projects in Django and Java CLI 
-architecture aren't public, but the portfolio covers what 
-I'm working on outside of class.
+**Currently building:** [tally](https://github.com/issac-23/tally) — 
+a personal budget tracker in Next.js with Google auth. 
+[Live demo](https://tally-issac.vercel.app)
 
-Outside of CS: Permira Summer Scholar, Fellow at 
-The Opportunity Network.
+Working in TypeScript, Python, and Java. Coursework in Django and 
+Java CLI architecture isn't public, but I'm rebuilding the 
+interesting pieces as public projects over the summer.
+
+Outside of CS: Permira Summer Scholar, Fellow at The Opportunity 
+Network.
