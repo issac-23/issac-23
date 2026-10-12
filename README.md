@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science and Economics student at Northeastern University ('29), based between NYC and Boston. I am interesting and building and using tools where software meets the intersection of economics and finance.
+I'm a Computer Science and Economics student at Northeastern University ('29), based between NYC and Boston. I'm interested in building and using tools where software meets economics and finance.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,6 @@ I'm a Computer Science and Economics student at Northeastern University ('29), b
 * Coach Dream It Real Youth Council
 * Fellow at The Opportunity Network
 
-## GitHub Stats
+## Languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=issac-23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-23&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-23&layout=compact&theme=dark&hide=html,css,plpgsql)
