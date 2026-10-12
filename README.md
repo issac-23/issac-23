@@ -39,4 +39,4 @@ I'm a Computer Science and Economics student at Northeastern University ('29), b
 
 ## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-23&layout=compact&theme=dark&hide=html,css,plpgsql)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-23&layout=compact&theme=dark&langs_count=6&size_weight=0.5&count_weight=0.5&hide=plpgsql)
